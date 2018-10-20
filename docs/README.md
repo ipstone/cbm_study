@@ -1,4 +1,4 @@
-## General information about Wednesday night Bible study
+## Wednesday night Bible study at Flushing / 法拉盛周三查经
 
 * Time: every Wednesday night 8:00PM
     时间：每周三晚 8：00点
