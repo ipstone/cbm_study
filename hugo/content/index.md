@@ -11,10 +11,10 @@
 
     查经：希伯来书 康登弟兄带领
    
-* [Youtube channel 录影](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow)
+* [Subscribe Youtube channel 录影/订阅](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow)
     [1](https://www.youtube.com/watch?v=ybarWxXomX0&feature=youtu.be)
     [2](https://www.youtube.com/watch?v=GgqdfXQ06MQ&feature=youtu.be) 
-* [Video streaming on Wednesday night 网上直播](https://youtu.be/GgqdfXQ06MQ)
+* [Video streaming on Wednesday night 网上直播](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow)
 * [Email-list signup for schedules 登记电邮更新](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
 
