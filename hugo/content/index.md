@@ -15,9 +15,11 @@ Every Wednesday night 8:00PM
 #### 查经：希伯来书 康登弟兄带领
 
 ##### Links
-[Latest video streaming link (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow)
-1. [10/17/18](https://www.youtube.com/watch?v=ybarWxXomX0&feature=youtu.be)
-2. [10/24/18](https://www.youtube.com/watch?v=GgqdfXQ06MQ&feature=youtu.be) 
+[Video streaming (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow)
+
+* [Week 1, 10/17/18](https://youtu.be/ybarWxXomX0?t=92)
+* [Week 2, 10/24/18](https://youtu.be/GgqdfXQ06MQ?t=675)
+* [Week 3, 10/31/18](https://youtu.be/kXC3S9FxDOY?t=725)
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
