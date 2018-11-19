@@ -16,6 +16,7 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 * [Week 3: 10/31/18, ](https://youtu.be/kXC3S9FxDOY?t=725) [slide_3](slides/Hebr3cbm-background.pdf)
 * [Week 4: 11/07/18, ](https://youtu.be/qkfbJlYl1kA?t=655) [slide_4](slides/Hebr4CBM-argument.pdf)
 * [Week 5: 11/14/18, ](https://youtu.be/DAxWVT3zOnI?t=558) [slide_5](slides/Hebr4CBM-argument.pdf)
+* We will have a recess on 11/21/18. 这一周 11/21 查经暂停，下周继续。
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
