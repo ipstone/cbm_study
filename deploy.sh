@@ -1,3 +1,4 @@
+#!/bin/bash
 echo 'Please have hugo installed: https://gohugo.io/'
 cp docs/README.md hugo/content/index.md
 
@@ -10,4 +11,5 @@ hugo
 
 # Uploading generated site to 
 cd ../
-echo "Please use rsync -avz public/ server:www/cbmministry/wed_study/ to upload to server."
+open hugo/public/index.html # On mac, launch browser to check
+echo "Please use rsync -avz public/ cbmnyus@cbmn...:www/cbmministry/wed_study/ to upload to server."
