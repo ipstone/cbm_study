@@ -12,4 +12,5 @@ hugo
 # Uploading generated site to 
 cd ../
 open hugo/public/index.html # On mac, launch browser to check
-echo "Please use rsync -avz public/ cbmnyus@cbmn...:www/cbmministry/wed_study/ to upload to server."
+echo "Please use the following command to upload:"
+echo "    rsync -avz hugo/public/ cbmnyus@cbmny...:www/cbmministry/wed_study/ to upload to server."
