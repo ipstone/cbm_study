@@ -19,6 +19,7 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 * [Week 6: 11/28/18, ](https://youtu.be/jH2yJmdtygo?t=519) [slide_6](slides/Hebr6CBM-chap2.pdf)
 * [Week 7: 12/05/18, ](https://youtu.be/aZ9CjzWJJuU?t=702) [slide_7](slides/Hebr7CBM-chap2b.pdf)
 * [Week 8: 12/12/18, ](https://youtu.be/DGeKeLwuDRs?t=592) [slide_8](slides/Hebr8CBM-chap3.pdf)
+* [Week 9: 12/19/18, ](https://youtu.be/RtMOcBNHHWs?t=793) [slide_9](slides/Hebr9CBM-chap4.pdf)
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
