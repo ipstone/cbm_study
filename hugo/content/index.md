@@ -11,15 +11,15 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 
 [Video streaming (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow)
 
-* [Week 1: 10/17/18, ](https://youtu.be/ybarWxXomX0?t=92) [slide_1](slides/Hebr1CBM-prophecy.pdf)
-* [Week 2: 10/24/18, ](https://youtu.be/GgqdfXQ06MQ?t=675) [slide_2](slides/Hebr2CBM-prophecy.pdf)
-* [Week 3: 10/31/18, ](https://youtu.be/kXC3S9FxDOY?t=725) [slide_3](slides/Hebr3cbm-background.pdf)
-* [Week 4: 11/07/18, ](https://youtu.be/qkfbJlYl1kA?t=655) [slide_4](slides/Hebr4CBM-argument.pdf)
-* [Week 5: 11/14/18, ](https://youtu.be/DAxWVT3zOnI?t=558) [slide_5](slides/Hebr5CBM-chap1.pdf)
-* [Week 6: 11/28/18, ](https://youtu.be/jH2yJmdtygo?t=519) [slide_6](slides/Hebr6CBM-chap2.pdf)
-* [Week 7: 12/05/18, ](https://youtu.be/aZ9CjzWJJuU?t=702) [slide_7](slides/Hebr7CBM-chap2b.pdf)
-* [Week 8: 12/12/18, ](https://youtu.be/DGeKeLwuDRs?t=592) [slide_8](slides/Hebr8CBM-chap3.pdf)
-* [Week 9: 12/19/18, ](https://youtu.be/RtMOcBNHHWs?t=793) [slide_9](slides/Hebr9CBM-chap4.pdf)
+* [Week 1: 10/17/18, ](https://youtu.be/ybarWxXomX0?t=92) [slide_1, ](slides/Hebr1CBM-prophecy.pdf) [audio_1](audio/Hebr1CBM-prophecy.m4a)
+* [Week 2: 10/24/18, ](https://youtu.be/GgqdfXQ06MQ?t=675) [slide_2, ](slides/Hebr2CBM-prophecy.pdf) [audio_2](audio/Hebr2CBM-prophecy.m4a)
+* [Week 3: 10/31/18, ](https://youtu.be/kXC3S9FxDOY?t=725) [slide_3, ](slides/Hebr3CBM-background.pdf) [audio_3](audio/Hebr3CBM-background.m4a)
+* [Week 4: 11/07/18, ](https://youtu.be/qkfbJlYl1kA?t=655) [slide_4, ](slides/Hebr4CBM-argument.pdf) [audio_4](audio/Hebr4CBM-argument.m4a)
+* [Week 5: 11/14/18, ](https://youtu.be/DAxWVT3zOnI?t=558) [slide_5, ](slides/Hebr5CBM-chap1.pdf) [audio_5](audio/Hebr5CBM-chap1.m4a)
+* [Week 6: 11/28/18, ](https://youtu.be/jH2yJmdtygo?t=519) [slide_6, ](slides/Hebr6CBM-chap2.pdf) [audio_6](audio/Hebr6CBM-chap2.m4a)
+* [Week 7: 12/05/18, ](https://youtu.be/aZ9CjzWJJuU?t=702) [slide_7, ](slides/Hebr7CBM-chap2b.pdf) [audio_7](audio/Hebr7CBM-chap2b.m4a) 
+* [Week 8: 12/12/18, ](https://youtu.be/DGeKeLwuDRs?t=592) [slide_8, ](slides/Hebr8CBM-chap3.pdf) [audio_8](audio/Hebr8CBM-chap3.m4a)
+* [Week 9: 12/19/18, ](https://youtu.be/RtMOcBNHHWs?t=793) [slide_9, ](slides/Hebr9CBM-chap4.pdf) [audio_9](audio/Hebr9CBM-chap4.m4a)
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
