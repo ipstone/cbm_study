@@ -21,6 +21,7 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 * [Week 8: 12/12/18, ](https://youtu.be/DGeKeLwuDRs?t=592) [slide_8, ](slides/Hebr8CBM-chap3.pdf) [audio_8](audio/Hebr8CBM-chap3.m4a)
 * [Week 9: 12/19/18, ](https://youtu.be/RtMOcBNHHWs?t=793) [slide_9, ](slides/Hebr9CBM-chap4.pdf) [audio_9](audio/Hebr9CBM-chap4.m4a)
 * [Week 10: 01/02/19, Quiz ](https://youtu.be/GDQq0omaRSw?t=517) [slide_10, ](slides/Hebr10CBM-chap1-4-quiz.pdf) [audio_10](audio/Hebr10CBM-chap1-4-quiz.m4a)
+* [Week 11: 01/09/19, Chapter 5 ](https://youtu.be/mVtQt0AqZYI?t=710) [slide_11, ](slides/Hebr11CBM-chap5.pdf) [audio_11](audio/Hebr11CBM-chap5.m4a)
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
