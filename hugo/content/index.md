@@ -23,7 +23,7 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 * [Week 10: 01/02/19, Quiz ](https://youtu.be/GDQq0omaRSw?t=517) [slide_10, ](slides/Hebr10CBM-chap1-4-quiz.pdf) [audio_10](audio/Hebr10CBM-chap1-4-quiz.m4a)
 * [Week 11: 01/09/19, Chapter 5 ](https://youtu.be/mVtQt0AqZYI?t=710) [slide_11, ](slides/Hebr11CBM-chap5.pdf) [audio_11](audio/Hebr11CBM-chap5.m4a)
 * [Week 12: 01/16/19, Chapter 6a ](https://youtu.be/wO42nuUkFtk?t=580) [slide_12, ](slides/Hebr12CBM-chap6a.pdf) [audio_12](audio/Hebr12CBM-chap6a.m4a)
-* [Week 13: 01/23/19, Chapter 6b ](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow) [slide_13, ](slides/Hebr13CBM-chap6b.pdf) [audio_to_be_posted]()
+* [Week 13: 01/23/19, Chapter 6b ](https://youtu.be/y5jIYAv5_iE?t=600) [slide_13, ](slides/Hebr13CBM-chap6b.pdf) [audio_13](audio/Hebr13CBM-chap6b.m4a)
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
