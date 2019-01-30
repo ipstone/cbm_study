@@ -1,0 +1,87 @@
+#
+# A sample RSS channel definition
+#
+# This file is read by Dropcaster
+# http://github.com/nerab/dropcaster
+#
+# It defines the properties of your podcast channel.
+#
+
+#
+# Title (name) of the podcast
+#
+:title: 'CBM Wednesday Bible Study'
+
+#
+# Short description of the podcast (a few words)
+#
+:subtitle: 'A study on Hebrews with Bro. Dana Congdon'
+
+#
+# URL to the podcast.
+#
+:url: 'http://www.cbmministry.org/wed_study/'
+
+#
+# Optional base URL for enclosure links
+#
+:enclosures_url: 'http://www.cbmministry.org/wed_study/'
+
+#
+# Language of the podcast - ISO 639-1 Alpha-2 list (two-letter language codes, some with possible modifiers, such as "en-us").
+#
+:language: 'en-us'
+
+#
+# Not visible in iTunes, but useful as a statement in the feed
+#
+:copyright: '© 2019 CBM'
+
+#
+# Author / creator of the podcast. In iTunes, it is displayed in the artist column.
+#
+:author: 'Brothers and Sisters'
+
+#
+# Longer description of the podcast
+#
+:description: 'A podcast for Wedensday night Bible study at CMB.'
+#
+# Contact information of the owner of the podcast. Not be publicly displayed in iTunes.
+#
+# :owner:
+#   :name: 'John Doe'
+#   :email: 'john.doe@example.com'
+
+#
+# iTunes prefers square .jpg images that are at least 600 x 600 pixels
+#
+# If the URL does not start with http: or https:, it will be prefixed with the channel url.
+#
+:image_url: 'fish.png'
+
+#
+# Category / categories of the podcast
+#
+# For iTunes, see http://www.apple.com/itunes/podcasts/specs.html#categories for applicable values
+#
+# Examples:
+#   :categories: 'Technology'
+#   :categories: ['Technology', 'Gadgets']
+#   :categories: ['TV & Film', ['Technology', 'Gadgets']]
+#
+# Don't HTML-escape the categories, this will be taken care of by Dropcaster
+#
+:categories: ['Religion', 'Spirituality']
+
+#
+# Yes, No or Clean, see http://www.apple.com/itunes/podcasts/specs.html#explicit
+#
+:explicit: No
+
+#
+# Keywords
+#
+# Apple recommends to use not more than 12 keywords
+#
+:keywords: [God, love, faith, hope, light]
