@@ -1,4 +1,4 @@
 baseURL = "http://www.cbmministry.org/wed_study/"
 languageCode = "en-us"
 title = "CBM Wednesday night Bible Study"
-theme="bootstrap"
+theme="hugo-bootstrap"
