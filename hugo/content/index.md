@@ -24,7 +24,8 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 * [Week 11: 01/09/19, Chapter 5 ](https://youtu.be/mVtQt0AqZYI?t=710) [slide_11, ](slides/Hebr11CBM-chap5.pdf) [audio_11](audio/Hebr11CBM-chap5.m4a)
 * [Week 12: 01/16/19, Chapter 6a ](https://youtu.be/wO42nuUkFtk?t=580) [slide_12, ](slides/Hebr12CBM-chap6a.pdf) [audio_12](audio/Hebr12CBM-chap6a.m4a)
 * [Week 13: 01/23/19, Chapter 6b ](https://youtu.be/y5jIYAv5_iE?t=600) [slide_13, ](slides/Hebr13CBM-chap6b.pdf) [audio_13](audio/Hebr13CBM-chap6b.m4a)
-* [Week 14: 02/07/19, Chapter 6b ](https://youtu.be/TyVamCIQk5w?t=569) [slide_14, ](slides/Hebr14CBM-Chap7_CHI.pdf) [audio_13](audio/Hebr14CBM-chap7.m4a)
+* [Week 14: 02/07/19, Chapter 7a ](https://youtu.be/TyVamCIQk5w?t=569) [slide_14, ](slides/Hebr14CBM-Chap7_CHI.pdf) [audio_13](audio/Hebr14CBM-chap7.m4a)
+* [Week 15: 02/13/19, Chapter 7b ](https://youtu.be/qAM5tu1T1pI?t=487) [slide_15, ](slides/Hebr15CBM-Chap7b_CHI.pdf) [audio_14](audio/Hebr15CBM-chap7b.m4a)
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
