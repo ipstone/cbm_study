@@ -27,6 +27,7 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 * [Week 14: 02/07/19, Chapter 7a ](https://youtu.be/TyVamCIQk5w?t=569) [slide_14, ](slides/Hebr14CBM-Chap7_CHI.pdf) [audio_14](audio/Hebr14CBM-chap7.m4a)
 * [Week 15: 02/13/19, Chapter 7b ](https://youtu.be/qAM5tu1T1pI?t=487) [slide_15, ](slides/Hebr15CBM-Chap7b_CHI.pdf) [audio_15](audio/Hebr15CBM-chap7b.m4a)
 * [Week 16: 02/27/19, Chapter 8 ](https://youtu.be/PbOItQukUJc?t=501) [slide_16, ](slides/Hebr16-Chap8_CHI.pdf) [audio_16](audio/Hebr16CBM-chap8.m4a)
+* [Week 17: 03/06/19, Chapter 9 ](https://youtu.be/lHZXagDr9n0?t=560) [slide_17, ](slides/Hebr17chap9_CHI.pdf) [audio_17](audio/Hebr17CBM-chap9.m4a)
 
 [Sign up for email reminders here 在这里登记电子邮件提醒](https://goo.gl/forms/D87k7VBsuQMKpyJs2)
 
