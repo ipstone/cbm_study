@@ -21,6 +21,8 @@ os.system('youtube-dl --add-metadata -ic -x -f bestaudio/best --output "%(title)
 # As it's hard to get the downloaded file name from script, next step is manual
 # TODO: figure out how to get download file name!
 print("---------------------------------------")
-print("Please rename the downloaded file, and run:")
-print("    ./cut_mp3_start.sh file_name " + time_string)
-print("          After cut_mp3_start.sh runs, processed audio file will be copied to static/audio .")
+print("Further steps:")
+print("    1. Please rename the downloaded file.")
+print("    2. Run:  ./cut_mp3_start.sh file_name " + time_string)
+print("---------------------------------------")
+print("After cut_mp3_start.sh runs, processed audio file will be copied to static/audio .")
