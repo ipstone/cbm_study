@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # Use this script youtube_url ; to output the extracted start time in
 # the format of MM:SS - for the starting audio time
+# TODO: need to add command line help/etc. for this script for future references
 
 import sys
 # import subprocess
