@@ -1,8 +1,6 @@
 ---
 title: "Hebrews"
-date: 2019-11-04T12:03:27-05:00
-#date: 2018-10-17 to 2019-05-01
-draft: false
+date: 2018-10-17T12:03:27-05:00
 ---
 
 #### Study of Hebrews with Bro. Dana Congdon and local brothers 

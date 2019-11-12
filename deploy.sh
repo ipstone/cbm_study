@@ -13,4 +13,4 @@ hugo
 cd ../
 open hugo/public/index.html # On mac, launch browser to check
 echo "Please use the following command to upload:"
-echo "    rsync -avz hugo/public/ a1:1www/cbmministry/wed_study/ to upload to server."
+echo "    rsync -avz hugo/public/ a1:www/cbmministry/wed_study/ \nto upload to server."
