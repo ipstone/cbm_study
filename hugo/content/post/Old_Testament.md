@@ -10,4 +10,6 @@ date: 2019-11-06T13:08:58-05:00
 
 * [Week 1: 11/06/19, Overview ](https://youtu.be/nHVP9hS6llc?t=388) [, slide_1 ](/wed_study/slides/OT_study/1-OTstudyCBM2019_CHI.pdf) 
 
-* [Week 2: 11/13/19, Bible's Testimony ](https://www.youtube.com/watch?v=mgiYmTK_F14&feature=youtu.be) [, slide_2](/wed_study/slides/OT_study/2-OTstudyCBM2019-CHI.pdf) 
+* [Week 2: 11/13/19, Bible's Testimony ](https://youtu.be/mgiYmTK_F14?t=573) [, slide_2](/wed_study/slides/OT_study/2-OTstudyCBM2019-CHI.pdf) 
+
+* [Week 3: 11/20/19, Understanding Covenant ](https://youtu.be/MzEhuMWSAA8?t=943) [, slide_3](/wed_study/slides/OT_study/3-OTstudyCBM2019-CHI.pdf) 
