@@ -13,4 +13,6 @@ date: 2019-11-06T13:08:58-05:00
 
 * [Study 3: 11/20/19, Understanding Covenant ](https://youtu.be/MzEhuMWSAA8?t=943) [, slide_3](/wed_study/slides/OT_study/3-OTstudyCBM2019-CHI.pdf) 
 
-* [Study 4: 12/11/19, Bereshith 起初 ](https://youtu.be/ozcjLXMGon8?t=581) [, slide_4](/wed_study/slides/OT_study/4-OTstudyCBM2019-CHI.pdf) 
+* [Study 4: 12/11/19, Bereshith 起初 1 ](https://youtu.be/ozcjLXMGon8?t=581) [, slide_4](/wed_study/slides/OT_study/4-OTstudyCBM2019-CHI.pdf) 
+
+* [Study 5: 12/18/19, Bereshith 起初 2 ](https://youtu.be/WmojgbE3KcI?t=507) [, slide_5](/wed_study/slides/OT_study/5-OTstudyCBM2019-CHI.pdf) 
