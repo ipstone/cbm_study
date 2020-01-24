@@ -20,3 +20,7 @@ date: 2019-11-06T13:08:58-05:00
 
 * [Study 6: 01/08/20, Exodus (Shemot) 出埃及記 ](https://youtu.be/yBkIdnuZnhY?t=490) [, slide_6](/wed_study/slides/OT_study/6-OTstudyCBM2019-CHI.pdf) 
 
+* [Study 7: 01/15/20, Leviticus (VaYikra) 利未记 ](https://youtu.be/FNB6tkTcTR4?t=604) [, slide_7](/wed_study/slides/OT_study/7-OTstudyCBM2020-CHI.pdf) 
+
+* [Study 6: 01/22/20, Numbers & Deuteronomy (BaMidBar & Devarim) 民数记 & 申命记 ](https://youtu.be/eg3nLguGgLY?t=473) [, slide_8](/wed_study/slides/OT_study/8-OTstudyCBM2020-CHI.pdf) 
+
