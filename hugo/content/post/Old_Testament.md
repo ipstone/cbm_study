@@ -22,5 +22,6 @@ date: 2019-11-06T13:08:58-05:00
 
 * [Study 7: 01/15/20, Leviticus (VaYikra) 利未记 ](https://youtu.be/FNB6tkTcTR4?t=604) [, slide_7](/wed_study/slides/OT_study/7-OTstudyCBM2020-CHI.pdf) 
 
-* [Study 6: 01/22/20, Numbers & Deuteronomy (BaMidBar & Devarim) 民数记 & 申命记 ](https://youtu.be/eg3nLguGgLY?t=473) [, slide_8](/wed_study/slides/OT_study/8-OTstudyCBM2020-CHI.pdf) 
+* [Study 8: 01/22/20, Numbers & Deuteronomy (BaMidBar & Devarim) 民数记 & 申命记 ](https://youtu.be/eg3nLguGgLY?t=473) [, slide_8](/wed_study/slides/OT_study/8-OTstudyCBM2020-CHI.pdf) 
 
+* [Study 9: 01/29/20, The Prophets (Nebiim) 先知書 ](https://youtu.be/_pEAkDaPmNk?t=516) [, slide_9](/wed_study/slides/OT_study/11-OTstudyCBM2020-CHI.pdf) 
