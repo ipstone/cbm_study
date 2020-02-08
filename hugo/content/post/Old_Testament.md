@@ -25,3 +25,6 @@ date: 2019-11-06T13:08:58-05:00
 * [Study 8: 01/22/20, Numbers & Deuteronomy (BaMidBar & Devarim) 民数记 & 申命记 ](https://youtu.be/eg3nLguGgLY?t=473) [, slide_8](/wed_study/slides/OT_study/8-OTstudyCBM2020-CHI.pdf) 
 
 * [Study 9: 01/29/20, The Prophets (Nebiim) 先知書 ](https://youtu.be/_pEAkDaPmNk?t=516) [, slide_9](/wed_study/slides/OT_study/11-OTstudyCBM2020-CHI.pdf) 
+
+* [Study 10: 02/05/20, The Prophets-Easy Quiz 先知書-小考 ](https://youtu.be/8qseHZSa0Kc?t=511) [, slide_10](/wed_study/slides/OT_study/10-OTstudyquizCBM2020_CHI.pdf) 
+
