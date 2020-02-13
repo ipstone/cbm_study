@@ -28,3 +28,5 @@ date: 2019-11-06T13:08:58-05:00
 
 * [Study 10: 02/05/20, The Prophets-Easy Quiz 先知書-小考 ](https://youtu.be/8qseHZSa0Kc?t=511) [, slide_10](/wed_study/slides/OT_study/10-OTstudyquizCBM2020_CHI.pdf) 
 
+* [Study 11: 02/12/20, Nebiim-Joshua 先知書-約書亞記 ](https://youtu.be/SO8W13RNSUc?t=615) [, slide_11](/wed_study/slides/OT_study/9-OTstudyCBM2020-CHI.pdf) 
+
