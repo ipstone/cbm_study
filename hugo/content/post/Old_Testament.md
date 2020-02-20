@@ -30,3 +30,5 @@ date: 2019-11-06T13:08:58-05:00
 
 * [Study 11: 02/12/20, Nebiim-Joshua 先知書-約書亞記 ](https://youtu.be/SO8W13RNSUc?t=615) [, slide_11](/wed_study/slides/OT_study/9-OTstudyCBM2020-CHI.pdf) 
 
+* [Study 12: 02/19/20, Judges and Ruth 士師記-路德記 ](https://youtu.be/FXGo3KkZEI8?t=936) [, slide_12](/wed_study/slides/OT_study/12-OTstudyCBM2020_CHI.pdf) 
+
