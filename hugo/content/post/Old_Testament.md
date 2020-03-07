@@ -33,3 +33,5 @@ date: 2019-11-06T13:08:58-05:00
 * [Study 12: 02/19/20, Judges and Ruth 士師記-路德記 ](https://youtu.be/FXGo3KkZEI8?t=936) [, slide_12](/wed_study/slides/OT_study/12-OTstudyCBM2020_CHI.pdf) 
 
 * [Study 13: 02/26/20, 1-2 Samuel 撒母耳記上、下](https://youtu.be/-KBCPY1kUrU?t=623) [, slide_13](/wed_study/slides/OT_study/13-OTstudyCBM2020-CHI.pdf) 
+
+* [Study 14: 03/04/20, 1-2 Kings 列王記上、下](https://youtu.be/phT0R81IfBY?t=481) [, slide_14](/wed_study/slides/OT_study/14-OTstudyCBM2020-CHI.pdf) 
