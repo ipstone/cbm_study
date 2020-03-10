@@ -1,6 +1,6 @@
 baseURL = "http://www.cbmministry.org/wed_study/"
 languageCode = "en-us"
-title = "CBM Wednesday night Bible Study"
+title = "CBM Wednesday Night Bible Study"
 
 # Pagination
 paginate = 3
@@ -14,19 +14,11 @@ summaryLength = 10
   languageName = "English"
 
   # Replace the default footer message with a localized message
-  copyright = "Hugo template made with ❤ by Xzya"
+  copyright = " "
 
   [[languages.en.menu.main]]
     #url = "/"
     name = "Home"
-    weight = 1
-  [[languages.en.menu.main]]
-    url = "about"
-    name = "About"
-    weight = 1
-  [[languages.en.menu.main]]
-    url = "contact"
-    name = "Contact"
     weight = 1
 
 [permalinks]
