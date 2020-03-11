@@ -6,8 +6,6 @@ date: 2018-10-17T12:03:27-05:00
 #### Study of Hebrews with Bro. Dana Congdon and local brothers 
 查经：希伯来书 康登弟兄带领
 
-[Video streaming (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow)
-
 * [Week 1: 10/17/18, ](https://youtu.be/ybarWxXomX0?t=92) [slide_1, ](/wed_study/slides/Hebr1CBM-prophecy.pdf) [audio_1](/wed_study/audio/Hebr1CBM-prophecy.m4a)
 * [Week 2: 10/24/18, ](https://youtu.be/GgqdfXQ06MQ?t=675) [slide_2, ](/wed_study/slides/Hebr2CBM-prophecy.pdf) [audio_2](/wed_study/audio/Hebr2CBM-prophecy.m4a)
 * [Week 3: 10/31/18, ](https://youtu.be/kXC3S9FxDOY?t=725) [slide_3, ](/wed_study/slides/Hebr3CBM-background.pdf) [audio_3](/wed_study/audio/Hebr3CBM-background.m4a)
