@@ -23,3 +23,4 @@ date: 2019-11-06T13:08:58-05:00
 * [Study 13: 02/26/20, 1-2 Samuel 撒母耳記上、下](https://youtu.be/-KBCPY1kUrU?t=623) [, slide_13](/wed_study/slides/OT_study/13-OTstudyCBM2020-CHI.pdf) 
 * [Study 14: 03/04/20, 1-2 Kings 列王記上、下](https://youtu.be/phT0R81IfBY?t=481) [, slide_14](/wed_study/slides/OT_study/14-OTstudyCBM2020-CHI.pdf) 
 * [Study 15: 03/11/20, 1-2 Chronicles 歷代志上、下](https://youtu.be/t7paQtWTbd0?t=713) [, slide_15](/wed_study/slides/OT_study/15-OTstudyCBM2020-CHI.pdf) 
+* [Study 16: 04/01/20, Sacred Writings 神聖的著作](https://www.youtube.com/watch?v=aeiNyIgTOus) [, slide_16](/wed_study/slides/OT_study/16-OTstudyCBM2020-CHI.pdf) 
