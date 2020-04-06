@@ -21,6 +21,6 @@ read -p "Woulc you like to run the above rsync now (y/n)? " -n 1 -r
 echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
-    rsync -avz hugo/public/ a1:www/cbmministry/wed_study/
+    rsync -avz hugo/public/ aonemak1@a1make.net:www/cbmministry/wed_study/
 fi
 # DONE!
