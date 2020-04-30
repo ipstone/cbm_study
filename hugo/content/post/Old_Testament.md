@@ -27,3 +27,4 @@ date: 2019-11-06T13:08:58-05:00
 * [Study 17: 04/08/20, Songs, Ruth & Lamentation 雅歌，路德記 & 哀歌](https://youtu.be/8ZGDLv7K9iM) [, slide_17](/wed_study/slides/OT_study/17-OTstudyCBM2020-CHI.pdf) 
 * [Study 18: 04/15/20, Ecclesiastes and Esther 傳道書 & 以斯帖記](https://youtu.be/34pU1Lhwe0Q?t=4) [, slide_18](/wed_study/slides/OT_study/18-OTstudyCBM2020-CHI.pdf) 
 * [Study 19: 04/22/20, Job 約伯記](https://youtu.be/V-7_EWS-Y14) [, slide_19](/wed_study/slides/OT_study/19-OTstudyCBM2020-CHI.pdf) 
+* [Study 20: 04/29/20, Psalms 詩篇](https://youtu.be/1tXOloMneRI) [, slide_20](/wed_study/slides/OT_study/20-OTstudyCBM2020-CHI.pdf) 
