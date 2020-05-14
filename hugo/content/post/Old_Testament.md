@@ -29,3 +29,4 @@ date: 2019-11-06T13:08:58-05:00
 * [Study 19: 04/22/20, Job 約伯記](https://youtu.be/V-7_EWS-Y14) [, slide_19](/wed_study/slides/OT_study/19-OTstudyCBM2020-CHI.pdf) 
 * [Study 20: 04/29/20, Psalms 詩篇](https://youtu.be/1tXOloMneRI) [, slide_20](/wed_study/slides/OT_study/20-OTstudyCBM2020-CHI.pdf) 
 * [Study 21: 05/06/20, Proverbs 箴言](https://youtu.be/WjenrYkYpH4) [, slide_21](/wed_study/slides/OT_study/21-OTstudyCBM2020-CHI.pdf) 
+* [Study 22: 05/13/20, Isaiah 以賽亞書](https://youtu.be/bWhyaclj62E?t=12) [, slide_21](/wed_study/slides/OT_study/22-OTstudyCBM2020-CHI.pdf) 
