@@ -33,3 +33,4 @@ date: 2019-11-06T13:08:58-05:00
 * [Study 23: 05/20/20, Isaiah 以賽亞書 (2)](https://youtu.be/YKufQOhUcDQ?t=658) [, slide_23](/wed_study/slides/OT_study/23-OTstudyCBM2020-CHI.pdf) 
 * [Study 24: 05/27/20, Isaiah 以賽亞書 (3)](https://youtu.be/JMZPcQxqzdk) [, slide_24](/wed_study/slides/OT_study/24-OTstudyCBM2020-CHI.pdf) 
 * [Study 25: 06/03/20, Jeremiah 耶利⽶書](https://youtu.be/p567qL9v4GE?t=11) [, slide_25](/wed_study/slides/OT_study/25-OTstudyCBM2020-CHI.pdf) 
+* [Study 26: 06/10/20,Ezekiel 以西結書](https://youtu.be/96Cft5PhqVs?t=10) [, slide_26](/wed_study/slides/OT_study/26-OTstudyCBM2020-CHI.pdf) 
