@@ -34,5 +34,6 @@ date: 2019-11-06T13:08:58-05:00
 * [Study 24: 05/27/20, Isaiah 以賽亞書 (3)](https://youtu.be/JMZPcQxqzdk) [, slide_24](/wed_study/slides/OT_study/24-OTstudyCBM2020-CHI.pdf) 
 * [Study 25: 06/03/20, Jeremiah 耶利⽶書](https://youtu.be/p567qL9v4GE?t=11) [, slide_25](/wed_study/slides/OT_study/25-OTstudyCBM2020-CHI.pdf) 
 * [Study 26: 06/10/20,Ezekiel 以西結書](https://youtu.be/96Cft5PhqVs?t=10) [, slide_26](/wed_study/slides/OT_study/26-OTstudyCBM2020-CHI.pdf) 
-* [Study 27: 06/17/20,The Prophets: Hosea, Joel, Amos, Obadiah 小先知書（4/12）](https://youtu.be/DBncCFPQGrg?t=7) [, slide_27](/wed_study/slides/OT_study/27-OTstudyCBM2020-CHI.pdf) 
+* [Study 27: 06/17/20,The Prophets: Hosea, Joel, Amos, Obadiah 小先知書（1-4/12）](https://youtu.be/DBncCFPQGrg?t=7) [, slide_27](/wed_study/slides/OT_study/27-OTstudyCBM2020-CHI.pdf) 
 * [Study 28: 06/23/20,The Prophets: Jonah, Micah, Nahum, Zephaniah 小先知書（5-8/12）](https://youtu.be/ZXJvR8G37r8?t=7) [, slide_28](/wed_study/slides/OT_study/28-OTstudyCBM2020-CHI.pdf) 
+* [Study 29: 06/30/20,The Prophets: The Prophets: Habakkuk,Haggai, Zechariah, Malachi 小先知書（9-12/12）](https://youtu.be/eY97k-LM1xI?t=7) [, slide_29](/wed_study/slides/OT_study/29-OTstudyCBM2020-CHI.pdf) 
