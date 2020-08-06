@@ -1,5 +1,5 @@
 ---
-title: "Hebrews"
+title: "Hebrews 希伯來書"
 date: 2018-10-17T12:03:27-05:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Peters"
+title: "Peters 彼得前後書"
 date: 2019-07-17
 ---
 
