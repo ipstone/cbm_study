@@ -1,5 +1,5 @@
 ---
-title: "Old Testament Study"
+title: "Old Testament Study 舊約概覽"
 date: 2019-11-06T13:08:58-05:00
 ---
 
