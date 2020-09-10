@@ -16,3 +16,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 3: 08/20/2020, The coming of Jesus of Nazareth 拿撒勒人耶穌的到來 ](https://youtu.be/IRtW6F2NI8g?t=178) [, slide_3 ](/wed_study/slides/Mark/03markCBM2020-CHI.pdf)
 * [Study 4: 08/27/2020, The ministry commences 職事開始 ](https://youtu.be/ezDKZY6xjE4?t=85) [, slide_4 ](/wed_study/slides/Mark/04markCBM2020-CHI.pdf)
 * [Study 5: 09/02/2020, Shine upon the wilderness 在旷野发光](https://youtu.be/QtJ6N6pyKgE?t=10) [, slide_5 ](/wed_study/slides/Mark/05markCBM2020-CHI.pdf)
+* [Study 6: 09/09/2020,  Mark 马可福音 2.18-3.6： Gospel of Kingdom Grace 國度恩典的福音](https://youtu.be/i8mqsb_WGj0?t=206) [, slide_6 ](/wed_study/slides/Mark/06markCBM2020-CHI.pdf)
