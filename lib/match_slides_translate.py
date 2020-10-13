@@ -48,3 +48,5 @@ for i in range(len(en_dict)):
     print(en_dict[i])
     print(cn_dict[i])
 
+# This final line set the orgmode export format
+print("#+OPTIONS:   H:2 num:nil toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t")
