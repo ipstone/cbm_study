@@ -20,3 +20,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 7: 09/16/2020, Mark 马可福音 3.7-3.35： Jesus' 2nd Gospel Campain with new Strategies 耶稣以新的策略的第二轮福音行動攻势 ](https://youtu.be/9DnYdlCW3Oc?t=201) [, slide_7 ](/wed_study/slides/Mark/07MarkCBM2020-CHI.pdf)
 * [Study 8: 09/23/2020, Mark 马可福音 4.1-4.25： Parable of the Mystery of the Kingdom 國度之奧祕的比喻 ](https://youtu.be/LmJzi-VPSCE?t=412) [, slide_8 ](/wed_study/slides/Mark/08MarkCBM2020-CHI.pdf)
 * [Study 9: 09/30/2020, Mark 馬可福音 4:21-34: Parables of the Mystery of the Kingdom 國度奧秘的比喻 ](https://youtu.be/vu59eX2fMn4?t=42) [, slide_9 ](/wed_study/slides/Mark/09markCBM2020-CHI.pdf)
+* [Study 10: 10/21/2020, Mark 馬可福音 4:35-5:20: Jesus reveals his mega power beyond Galilee 耶穌在加利利以外彰顯祂極大的能力 ](https://youtu.be/JLYUmQzFmdI?t=120) [, slide_10 ](/wed_study/slides/Mark/10markCBM2020-CHI.pdf)
