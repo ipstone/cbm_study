@@ -25,3 +25,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 12: 11/04/2020, Mark 馬可福音 6 From Jesus’ disciples to kingdom apostles 從耶穌的門徒變成國度的使徒 ](https://youtu.be/nSo-ukZOUxo?t=148) [, slide_12 ](/wed_study/slides/Mark/12MarkCBM2020_CHI.pdf)
 * [Study 13: 11/11/2020, Mark 馬可福音 6: 30-56 Jesus is teaching the Disciples Faith in things Unseen  耶穌教導門徒們對看不見的事物的信心 ](https://www.youtube.com/watch?v=sonVW11HgZM) [, slide_13 ](/wed_study/slides/Mark/13MarkCBM2020_CHI.pdf)
 * [Study 14: 11/18/2020, Mark 馬可福音 7:1-23: Jesus confronts religious tradition 耶穌針對宗教的傳統](https://youtu.be/7BIliCuerSI?t=291) [, slide_14 ](/wed_study/slides/Mark/14MarkCBM2020_CHI.pdf)
+* [Study 15: 11/25/2020, Mark 馬可福音 7:24-8:10 耶穌將祂的國度福音传出以色列](https://youtu.be/rD5tWUEXjzM?t=157) [, slide_15 ](/wed_study/slides/Mark/15MarkCBM2020_CHI.pdf)
