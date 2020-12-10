@@ -11,8 +11,8 @@ Every Wednesday night 8:00PM / 每周三晚8:00点
 -->
 
 ##### Streaming / 网上直播 : 
-[Video streaming (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.twitch.tv/cbmwednesday)  
-<!-- [Video streaming (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow/live)   -->
+<!-- [Video streaming (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.twitch.tv/cbmwednesday)   -->
+[Video streaming (same time as meeting) / 网上直播 (跟聚会时间一样)](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow/live)  
 [Playlist of previous studies / 過去查經材料列表](https://www.youtube.com/playlist?list=PLR3bhxr7oswnKPPprA1JSSeDHrlt00ymQ)
 
 ##### Email reminder / 电子邮件提醒 : 
