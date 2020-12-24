@@ -1,6 +1,6 @@
 ## CBM Bible study on Wednesday / 法拉盛周三查经
-This week's study is postoned (10/7). 本週查經暫停（10月7日）
-We will resume the following week. 下週重新開始查經。
+Next week's study is postoned (12/30). 本週查經暫停（12月30日）
+We will resume the following week (1/6). 再下一周（1/6）重新開始查經。
 
 ##### Time / 时间 : 
 Every Wednesday night 8:00PM / 每周三晚8:00点
