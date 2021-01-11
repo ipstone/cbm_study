@@ -28,3 +28,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 15: 11/25/2020, Mark 馬可福音 7:24-8:10 Jesus takes his Kingdom gospel outside Israel 耶穌將祂的國度福音传出以色列](https://youtu.be/rD5tWUEXjzM?t=157) [, slide_15](/wed_study/slides/Mark/15MarkCBM2020_CHI.pdf)
 * [Study 16: 12/09/2020, Mark 馬可福音 8:11-8:30 Disciples “See the Christ” at Caesarea Philippi 门徒们在该撒利亚腓立比”看見了基督“](https://youtu.be/ffuVTIRlsvM?t=70) [, slide_16](/wed_study/slides/Mark/16MarkCBM2020_CHI.pdf)
 * [Study 17: 12/16/2020, Mark 馬可福音 8:31-9:1 Four More Revelations at Caesarea Philippi 在该撒利亚腓立比另外的四個啟示](https://youtu.be/8ZcB5GGUQbQ?t=433) [, slide_17](/wed_study/slides/Mark/17MarkCBM2020_CHI.pdf)
+* [Study 18: 1/6/2021, Mark 馬可福音 9:1-9:13 Jesus revealed as 'Son of God' upon the mount of Transfiguration 耶穌在變化山上啟示出了‘神的兒子’](https://youtu.be/0PQoLWrdEik?t=278) [, slide_18](/wed_study/slides/Mark/18MarkCBM2020_CHI.pdf)
