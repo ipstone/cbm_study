@@ -30,3 +30,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 17: 12/16/2020, Mark 馬可福音 8:31-9:1 Four More Revelations at Caesarea Philippi 在该撒利亚腓立比另外的四個啟示](https://youtu.be/8ZcB5GGUQbQ?t=433) [, slide_17](/wed_study/slides/Mark/17MarkCBM2020_CHI.pdf)
 * [Study 18: 1/6/2021, Mark 馬可福音 9:1-9:13 Jesus revealed as 'Son of God' upon the mount of Transfiguration 耶穌在變化山上啟示出了‘神的兒子’](https://youtu.be/0PQoLWrdEik?t=278) [, slide_18](/wed_study/slides/Mark/18MarkCBM2020_CHI.pdf)
 * [Study 19: 1/13/2021, Mark 馬可福音 9:2-9:39 Down from the mount of Transfiguration into the Valley 從變化山下來而進入山谷 ](https://youtu.be/_VgymxQtENY?t=421) [, slide_19](/wed_study/slides/Mark/19MarkCBM2020_CHI.pdf)
+* [Study 20: 1/20/2021, Mark 馬可福音 9:30-9:50 Jesus teaches the disciples about kingdom character 耶穌教導門徒國度的性格 ](https://youtu.be/1dHTXTHNqTo?t=163) [, slide_20](/wed_study/slides/Mark/20MarkCBM2021_CHI.pdf)
