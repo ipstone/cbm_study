@@ -34,3 +34,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 19: 1/13/2021, Mark 馬可福音 9:2-9:39 Down from the mount of Transfiguration into the Valley 從變化山下來而進入山谷 ](https://youtu.be/_VgymxQtENY?t=421) [, slide_19](/wed_study/slides/Mark/19MarkCBM2020_CHI.pdf)
 * [Study 20: 1/20/2021, Mark 馬可福音 9:30-9:50 Jesus teaches the disciples about kingdom character 耶穌教導門徒國度的性格 ](https://youtu.be/1dHTXTHNqTo?t=163) [, slide_20](/wed_study/slides/Mark/20MarkCBM2021_CHI.pdf)
 * [Study 21: 1/27/2021, Mark 馬可福音 10:1-31 Jesus teaches the disciples about kingdom character 耶穌教導門徒國度的性格 ](https://youtu.be/DwuzUq2EjpM?t=355) [, slide_21](/wed_study/slides/Mark/21MarkCBM2021_CHI.pdf)
+* [Study 22: 2/3/2021, Mark 馬可福音 10:1-31 Jesus reveals the Messiah’s Servant Nature 耶穌啟示出彌賽亞的僕人天性 ](https://youtu.be/tSQYo77NsAo?t=185) [, slide_22](/wed_study/slides/Mark/22MarkCBM2021-CHI-final.pdf)
