@@ -36,3 +36,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 21: 1/27/2021, Mark 馬可福音 10:1-31 Jesus teaches the disciples about kingdom character 耶穌教導門徒國度的性格 ](https://youtu.be/DwuzUq2EjpM?t=355) [, slide_21](/wed_study/slides/Mark/21MarkCBM2021_CHI.pdf)
 * [Study 22: 2/3/2021, Mark 馬可福音 10:1-31 Jesus reveals the Messiah’s Servant Nature 耶穌啟示出彌賽亞的僕人天性 ](https://youtu.be/tSQYo77NsAo?t=185) [, slide_22](/wed_study/slides/Mark/22MarkCBM2021-CHI-final.pdf)
 * [Study 23: 2/10/2021, Mark 馬可福音 11:1-26 Jesus enters Jerusalem as the Messiah 耶穌以彌賽亞的身分進入了耶路撒冷](https://youtu.be/ei_OP20ANbE?t=153) [, slide_23](/wed_study/slides/Mark/23MarkCBM2021-CHI-final.pdf)
+* [Study 24: 2/24/2021, Mark 馬可福音 11:27-12:17 Tuesday - Day of Controvery 週二：爭議的一天](https://youtu.be/0MlGllNZ_xc?t=203) [, slide_23](/wed_study/slides/Mark/24MarkCBM2021-updated-CHI.pdf)
