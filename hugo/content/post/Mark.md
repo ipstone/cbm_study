@@ -38,3 +38,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 23: 2/10/2021, Mark 馬可福音 11:1-26 Jesus enters Jerusalem as the Messiah 耶穌以彌賽亞的身分進入了耶路撒冷](https://youtu.be/ei_OP20ANbE?t=153) [, slide_23](/wed_study/slides/Mark/23MarkCBM2021-CHI-final.pdf)
 * [Study 24: 2/24/2021, Mark 馬可福音 11:27-12:17 Tuesday - Day of Controvery 週二：爭議的一天](https://youtu.be/0MlGllNZ_xc?t=203) [, slide_24](/wed_study/slides/Mark/24MarkCBM2021-updated-CHI.pdf)
 * [Study 25: 3/3/2021, Mark 馬可福音 12:13-44 Tuesday - Day of Controvery Part 2 週二：爭議的一天(二)](https://youtu.be/IRRMQPZu9HU?t=185) [, slide_25](/wed_study/slides/Mark/25MarkCBM2021-CHI.pdf)
+* [Study 26: 3/17/2021, Mark 馬可福音 12:13-44 Tuesday - Day of Controvery Part 3 週二：爭議的一天(三)](https://youtu.be/9pVGoypWc6U?t=299) [, slide_26](/wed_study/slides/Mark/26MarkCBM2021-CHI.pdf)
