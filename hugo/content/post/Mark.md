@@ -39,3 +39,4 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 24: 2/24/2021, Mark 馬可福音 11:27-12:17 Tuesday - Day of Controvery 週二：爭議的一天](https://youtu.be/0MlGllNZ_xc?t=203) [, slide_24](/wed_study/slides/Mark/24MarkCBM2021-updated-CHI.pdf)
 * [Study 25: 3/3/2021, Mark 馬可福音 12:13-44 Tuesday - Day of Controvery Part 2 週二：爭議的一天(二)](https://youtu.be/IRRMQPZu9HU?t=185) [, slide_25](/wed_study/slides/Mark/25MarkCBM2021-CHI.pdf)
 * [Study 26: 3/17/2021, Mark 馬可福音 12:13-44 Tuesday - Day of Controvery Part 3 週二：爭議的一天(三)](https://youtu.be/9pVGoypWc6U?t=299) [, slide_26](/wed_study/slides/Mark/26MarkCBM2021-CHI.pdf)
+* [Study 27: 4/7/2021, Mark 馬可福音 13: the Olivet Discourse 橄欖山上的預言 ](https://youtu.be/7rA2XMu92uc?t=148) [, slide_27](/wed_study/slides/Mark/27MarkCBM2021-CHI.pdf)
