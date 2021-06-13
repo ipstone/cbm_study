@@ -1,6 +1,6 @@
 ---
 title: "Mark 馬可福音"
-date: 2020-08-05T13:08:58-05:00
+date: 2021-05-26
 ---
 
 #### Gospel of Mark - study with Bro. Dana Congdon and local brothers
@@ -49,6 +49,7 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 27: 4/7/2021, Mark 馬可福音 13: the Olivet Discourse 橄欖山上的預言 ](https://youtu.be/7rA2XMu92uc?t=148) [, slide_27](/wed_study/slides/Mark/27MarkCBM2021-CHI.pdf)
 * [Study 28: 4/21/2021, Mark 馬可福音 13:24-37 "Those days" before His second coming 祂回來之前的“那些日子” ](https://youtu.be/n-x3-AH71Tg?t=166) [, slide_28](/wed_study/slides/Mark/28MarkCBM2021-CHI.pdf)
 * [Study 29: 4/28/2021, Mark 馬可福音 14:1-26  Two Passion Feasts-I 兩個跟基督受難有關的筵席(一) ](https://youtu.be/yhj1F_3johA?t=124) [, slide_29](/wed_study/slides/Mark/30MarkCBM2021-CHI-p1-29.pdf)
-* [Study 30: 5/4/2021, Mark 馬可福音 14:1-26  Two Passion Feasts-II 兩個跟基督受難有關的筵席(二) ](https://youtu.be/dj0DUzLfdrM?t=118) [, slide_30](/wed_study/slides/Mark/30bMarkCBM2021-CHI2.pdf)
-* [Study 31: 5/11/2021, Mark 馬可福音 14:26-52 Betrayal and Prayer in Gethsemane 背叛以及在客西馬尼園的禱告 ](https://youtu.be/1ciLK8KSrdE?t=1) [, slide_31](/wed_study/slides/Mark/31MarkCBM2021-CHI.pdf)
-* [Study 32: 5/11/2021, Mark 馬可福音 14:53- 15:1 The Jewish Trial of Jesus 猶太人給耶穌的審判 ](https://youtu.be/l-vWZLyCUX0?t=273) [, slide_32](/wed_study/slides/Mark/32MarkCBM2021-CHI.pdf)
+* [Study 30: 5/5/2021, Mark 馬可福音 14:1-26  Two Passion Feasts-II 兩個跟基督受難有關的筵席(二) ](https://youtu.be/dj0DUzLfdrM?t=118) [, slide_30](/wed_study/slides/Mark/30bMarkCBM2021-CHI2.pdf)
+* [Study 31: 5/12/2021, Mark 馬可福音 14:26-52 Betrayal and Prayer in Gethsemane 背叛以及在客西馬尼園的禱告 ](https://youtu.be/1ciLK8KSrdE?t=1) [, slide_31](/wed_study/slides/Mark/31MarkCBM2021-CHI.pdf)
+* [Study 32: 5/26/2021, Mark 馬可福音 14:53- 15:1 The Jewish Trial of Jesus 猶太人給耶穌的審判 ](https://youtu.be/l-vWZLyCUX0?t=273) [, slide_32](/wed_study/slides/Mark/32MarkCBM2021-CHI.pdf)
+* [Study 33: 6/9/2021, Mark 馬可福音 15:1- 15  The Trial of Jesus before Pontius Pilate 耶穌在彼拉多面前受審 ](https://youtu.be/zp98DBrSmvw?t=1) [, slide_33](/wed_study/slides/Mark/33MarkCBM2021-CHI.pdf)
