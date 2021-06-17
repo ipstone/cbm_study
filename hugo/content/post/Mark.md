@@ -51,5 +51,6 @@ Every Wednesday night 8:00PM / 每周三晚8:00
 * [Study 29: 4/28/2021, Mark 馬可福音 14:1-26  Two Passion Feasts-I 兩個跟基督受難有關的筵席(一) ](https://youtu.be/yhj1F_3johA?t=124) [, slide_29](/wed_study/slides/Mark/30MarkCBM2021-CHI-p1-29.pdf)
 * [Study 30: 5/5/2021, Mark 馬可福音 14:1-26  Two Passion Feasts-II 兩個跟基督受難有關的筵席(二) ](https://youtu.be/dj0DUzLfdrM?t=118) [, slide_30](/wed_study/slides/Mark/30bMarkCBM2021-CHI2.pdf)
 * [Study 31: 5/12/2021, Mark 馬可福音 14:26-52 Betrayal and Prayer in Gethsemane 背叛以及在客西馬尼園的禱告 ](https://youtu.be/1ciLK8KSrdE?t=1) [, slide_31](/wed_study/slides/Mark/31MarkCBM2021-CHI.pdf)
-* [Study 32: 5/26/2021, Mark 馬可福音 14:53- 15:1 The Jewish Trial of Jesus 猶太人給耶穌的審判 ](https://youtu.be/l-vWZLyCUX0?t=273) [, slide_32](/wed_study/slides/Mark/32MarkCBM2021-CHI.pdf)
-* [Study 33: 6/9/2021, Mark 馬可福音 15:1- 15  The Trial of Jesus before Pontius Pilate 耶穌在彼拉多面前受審 ](https://youtu.be/zp98DBrSmvw?t=1) [, slide_33](/wed_study/slides/Mark/33MarkCBM2021-CHI.pdf)
+* [Study 32: 5/26/2021, Mark 馬可福音 14:53-15:1 The Jewish Trial of Jesus 猶太人給耶穌的審判 ](https://youtu.be/l-vWZLyCUX0?t=273) [, slide_32](/wed_study/slides/Mark/32MarkCBM2021-CHI.pdf)
+* [Study 33: 6/9/2021, Mark 馬可福音 15:1-15  The Trial of Jesus before Pontius Pilate 耶穌在彼拉多面前受審 ](https://youtu.be/zp98DBrSmvw?t=1) [, slide_33](/wed_study/slides/Mark/33MarkCBM2021-CHI.pdf)
+* [Study 34: 6/16/2021, Mark 馬可福音 15:16-47 Jesus is Crucified and Buried 耶穌被釘十字架並且埋葬了](https://youtu.be/ddeaDJTRLT8?t=185) [, slide_34](/wed_study/slides/Mark/34MarkCBM2021-CHI.pdf)
